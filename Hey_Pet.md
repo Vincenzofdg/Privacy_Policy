@@ -1,43 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<title>Privacy Policy for Hey Pet! - PrivacyPolicies.com</title>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" type="text/css" href="/public/livelink/css/livelink.css" />
-<meta name="robots" content="noindex" />
-<meta property="og:title" content="Privacy Policy for Hey Pet! - PrivacyPolicies.com" />
-<meta property="og:image" content="https://www.privacypolicies.com/public/images/meta_og_image_livelink.png" />
-<meta property="og:image:width" content="1280" />
-<meta property="og:image:height" content="720" />
-<meta property="og:url" content="https://www.privacypolicies.com/live/578d3b7d-858f-45c2-ae0a-fa829c0ff0cd" />
-<meta property="og:site_name" content="PrivacyPolicies.com" />
-<link rel="canonical" href="https://www.privacypolicies.com/live/578d3b7d-858f-45c2-ae0a-fa829c0ff0cd" />
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-9D331S5YCM"></script>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-9D331S5YCM');
-    </script>
-</head>
-<body>
-<div class="page">
-<div class="header">
-<div class="container">
-<p class="title">Privacy Policy for Hey Pet!</p>
-</div>
-</div>
-<div class="translations-content-container">
-<div class="container">
-<div class="tab-content translations-content-item en visible" id="en">
-<h1>Privacy Policy</h1>
-<p>Last updated: February 20, 2024</p>
-<p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
-<p>We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the <a href="https://www.privacypolicies.com/privacy-policy-generator/" target="_blank">Privacy Policy Generator</a>.</p>
-<h2>Interpretation and Definitions</h2>
-<h3>Interpretation</h3>
+### Privacy Policy
+_Last updated: February 20, 2024_
+
+This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
+
+We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the Privacy Policy Generator.
+
+## Interpretation and Definitions
+### Interpretation
 <p>The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.</p>
 <h3>Definitions</h3>
 <p>For the purposes of this Privacy Policy:</p>
@@ -184,84 +153,8 @@
 <p>We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.</p>
 <p>We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the &quot;Last updated&quot; date at the top of this Privacy Policy.</p>
 <p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
-<h2>Contact Us</h2>
-<p>If you have any questions about this Privacy Policy, You can contact us:</p>
-<ul>
-<li>
-<p>By email: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="8afce3e4e9efe4f0e5eceeeda4eeeffccae3e9e6e5ffeea4e9e5e7">[email&#160;protected]</a></p>
-</li>
-<li>
-<p>By visiting this page on our website: <a href="https://vincenzofdg.com.br" rel="external nofollow noopener" target="_blank">https://vincenzofdg.com.br</a></p>
-</li>
-<li>
-<p>By phone number: +55 13</p>
-</li>
-</ul>
-</div>
-</div>
-</div>
 
-<div class="footer">
-<div class="container">
-<p>Generated using <a href="https://www.privacypolicies.com/privacy-policy-generator/" target="_blank">Privacy Policies Generator</a></p>
-</div>
-</div>
-</div>
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
-    const tabLinks = Array.from(document.querySelectorAll(".tab-link"));
-    const tabContents = document.querySelectorAll(".tab-content");
-
-    tabLinks.forEach(function(tabLink) {
-        tabLink.addEventListener("click", toggleTab);
-    });
-
-    let priorActiveTab = null;
-
-    function toggleTab(event) {
-        tabLinks.forEach(function(tabLink, index){
-            tabLink.classList.remove("active");
-            tabLink.classList.add("inactive");
-
-            tabContents[index].classList.remove("visible");
-            tabContents[index].classList.add("hidden");
-        });
-
-        if(priorActiveTab === this) {
-            this.classList.remove("active");
-            this.classList.add("inactive");
-
-            tabContents[tabLinks.indexOf(this)].classList.remove("visible");
-            tabContents[tabLinks.indexOf(this)].classList.add("hidden");
-
-            priorActiveTab = null;
-        } else {
-            this.classList.remove("inactive");
-            this.classList.add("active");
-
-            tabContents[tabLinks.indexOf(this)].classList.remove("hidden");
-            tabContents[tabLinks.indexOf(this)].classList.add("visible");
-
-            priorActiveTab = this;
-        }
-
-        if (priorActiveTab === null) {
-            this.classList.remove("inactive");
-            this.classList.add("active");
-
-            tabContents[tabLinks.indexOf(this)].classList.remove("hidden");
-            tabContents[tabLinks.indexOf(this)].classList.add("visible");
-        }
-
-        event.preventDefault();
-    }
-</script>
-<script defer data-domain="privacypolicies-livelink--production" data-api="/plausible/event" src="/plausible/script.js"></script>
-<script type="text/javascript">
-    "use strict";
-    window.LCG_TRACKING_APPLICATION = "privacypolicies-livelink";
-    window.LCG_TRACKING_ENVIRONMENT = "production";
-    window.LCG_TRACKING_EPOCH = "2020-e01";
-</script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"85897863cefe1185","version":"2024.2.1","token":"78553c15395b4429a9f224714ac63483"}' crossorigin="anonymous"></script>
-</body>
-</html>
+## Contact Us
+If you have any questions about this Privacy Policy, You can contact us:
+- By email: ***vincenzofdg.dev@icloud.com***
+- By visiting this page on our website: https://vincenzofdg.com.br
